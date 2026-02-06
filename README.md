@@ -50,10 +50,12 @@ Saya menikmati proses membangun sistem mulai dari arsitektur backend, integrasi 
 
 ---
 
+
 ## 🔧 Other Tech Stacks
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,vite,tailwind,nodejs,express,php,laravel,go,redux,astro,mysql,postgres,firebase,prisma" />
+  <img src="https://skillicons.dev/icons?i=ts,go,postgres,vite,tailwind,nodejs" />
 </p>
+
 
 ---
 
