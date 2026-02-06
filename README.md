@@ -44,7 +44,7 @@ Saya menikmati proses membangun sistem mulai dari arsitektur backend, integrasi 
 
 ## 🚀 Core Tech Stacks
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,python,fastapi,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,python,fastapi" />
 </p>
 
 
@@ -53,7 +53,7 @@ Saya menikmati proses membangun sistem mulai dari arsitektur backend, integrasi 
 
 ## 🔧 Other Tech Stacks
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,go,postgres,vite,tailwind,nodejs" />
+  <img src="https://skillicons.dev/icons?i=ts,go,postgres,nodejs,mysql" />
 </p>
 
 
@@ -63,18 +63,6 @@ Saya menikmati proses membangun sistem mulai dari arsitektur backend, integrasi 
 <p>
   <img height="40" src="https://skillicons.dev/icons?i=vscode,postman,git,github,gitlab,docker,linux,notion" />
 </p>
-
-### 🗂️ Database Tools
-<p>
-  <img height="40" src="https://cdn.simpleicons.org/laragon/0E83CD" />
-  <img height="40" src="https://cdn.simpleicons.org/navicat/2496ED" />
-  <img height="40" src="https://cdn.simpleicons.org/dbeaver/372923" />
-  <img height="40" src="https://cdn.simpleicons.org/phpmyadmin/6C78AF" />
-  <img height="40" src="https://cdn.simpleicons.org/tableplus/FEC138" />
-</p>
-
-
-
 
 
 ---
