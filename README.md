@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/utinurp-padila/assets/main/wave-white.svg" width="100%" />
 </p>
+
 
 <h1 align="center"> Uti Nur Padila ✨</h1>
 <h3 align="center">Web & Backend Developer</h3>
