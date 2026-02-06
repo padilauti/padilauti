@@ -1,32 +1,72 @@
-<h1 align="center">Hi, I'm Uti Nur Padila</h1>
-<h3 align="center">A Web and Mobile Developer</h3>
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" />
+</p>
 
-I'm Uti, a passionate developer focusing on web and mobile application development.
-I love building clean, modern, and high-performance applications using modern technology stacks.
+<h1 align="center">Hi, I'm Uti Nur Padila ✨</h1>
+<h3 align="center">Web & Mobile Developer</h3>
 
----
-
-### 🌐 Connect with me:
-[Email](mailto:utinurpadila@gmail.com) |
-[Instagram](https://instagram.com/username) |
-[LinkedIn](https://linkedin.com/in/username)
-
----
-
-### 🚀 Core Tech Stacks:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,next,nodejs,php,laravel,flutter" />
+<p align="center">
+  Aku Uti, seorang developer yang fokus pada frontend dan backend development.  
+  Aku suka membuat aplikasi yang clean, modern, dan mudah digunakan.  
+  Passion utamanya adalah JavaScript, PHP, dan mobile development.
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+## 🌐 Connect With Me
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=utinurpadila&show_icons=true&theme=tokyonight" height="160">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utinurpadila&layout=compact&theme=tokyonight" height="160">
+  <a href="mailto:utinurpadila@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://instagram.com/username">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/in/username">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🔥 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=utinurpadila&color=blueviolet)
+## 🚀 Core Tech Stacks
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,next,vue,nodejs,php,laravel,flutter" />
+</p>
+
+---
+
+## 🔧 Other Tech Stacks
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,vite,tailwind,nodejs,express,php,laravel,go,redux,astro,mysql,postgres,firebase,prisma" />
+</p>
+
+---
+
+## 🛠 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman,github,notion" />
+</p>
+
+---
+
+## 📊 Statistics
+
+### ⭐ GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=utinurpadila&show_icons=true&theme=tokyonight)
+
+### 📚 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utinurpadila&layout=compact&theme=tokyonight)
+
+### ⏱ WakaTime Tracking  
+*(Kalau kamu punya akun WakaTime)*  
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=utinurpadila&theme=tokyonight)
+
+---
+
+<!-- FOOTER WAVE -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" />
+</p>
