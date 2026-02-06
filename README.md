@@ -17,17 +17,18 @@
 ## 🌐 Connect With Me
 <p align="left">
   <a href="mailto:padilauti@gmail.com">
-    <img src="https://img.shields.io/badge/utinurpadila@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/padilauti@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://instagram.com/utinurp_">
-    <img src="https://img.shields.io/badge/@utinurpadila-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/@utinurp_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com/in/utinurpadila">
-    <img src="https://img.shields.io/badge/Uti_Nur_Padila-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/utinurp_">
+    <img src="https://img.shields.io/badge/utinurp_-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 
 
 ---
