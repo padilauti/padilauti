@@ -20,7 +20,7 @@
 <h3 align="center">Web & Backend Developer</h3>
 
 <p align="center">
-Saya Uti Nur Padila, seorang developer yang fokus pada pengembangan aplikasi web dan backend. Saya bekerja menggunakan Laravel (Fullstack) dan FastAPI, dengan tujuan membangun aplikasi yang clean, cepat, dan mudah dikembangkan.
+Saya Uti Nur Padila, seorang developer yang berkerja fokus pada pengembangan aplikasi web dan backend. Saya bekerja menggunakan Laravel (Fullstack) dan FastAPI, dengan tujuan membangun aplikasi yang clean, cepat, dan mudah dikembangkan.
   
 Saya menikmati proses membangun sistem mulai dari arsitektur backend, integrasi API, hingga tampilan web yang fungsional. Sebagai pembelajar cepat, saya selalu antusias mempelajari teknologi baru dan menerapkannya dalam proyek yang saya kerjakan.
 </p>
