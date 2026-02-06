@@ -58,8 +58,9 @@
 
 ## 🛠 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman,github,notion" />
+  <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,gitlab,docker,linux,notion" />
 </p>
+
 
 ---
 
