@@ -3,13 +3,13 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Uti Nur Padila ✨</h1>
-<h3 align="center">Web & Mobile Developer</h3>
+<h1 align="center"> Uti Nur Padila ✨</h1>
+<h3 align="center">Web & Backend Developer</h3>
 
 <p align="center">
-  Aku Uti, seorang developer yang fokus pada frontend dan backend development.  
-  Aku suka membuat aplikasi yang clean, modern, dan mudah digunakan.  
-  Passion utamanya adalah JavaScript, PHP, dan mobile development.
+Saya Uti Nur Padila, seorang developer yang bekerja di industri teknologi dan berfokus pada pengembangan backend dan web development. Saya memiliki pengalaman dalam membangun aplikasi menggunakan PHP (Laravel, Yii2) serta Python (FastAPI) untuk pengembangan API yang cepat dan efisien.
+Dengan dasar kuat pada backend engineering dan pemahaman terhadap frontend modern, saya menikmati proses membangun aplikasi yang bersih, stabil, dan mudah digunakan. Saya juga terbiasa bekerja dengan arsitektur REST API, manajemen database, hingga integrasi layanan eksternal.
+Sebagai pembelajar cepat dan pemikir adaptif, saya berkembang di lingkungan yang dinamis dan kolaboratif. Saya selalu terbuka terhadap feedback dan berupaya memberikan solusi terbaik dalam setiap project yang saya kerjakan.
 </p>
 
 ---
