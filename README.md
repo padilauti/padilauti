@@ -1,4 +1,4 @@
-<!-- HEADER BANNER -->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" />
 </p>
@@ -17,17 +17,18 @@
 ## 🌐 Connect With Me
 <p align="left">
   <a href="mailto:utinurpadila@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/utinurpadila@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://instagram.com/username">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/utinurpadila">
+    <img src="https://img.shields.io/badge/@utinurpadila-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com/in/username">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/utinurpadila">
+    <img src="https://img.shields.io/badge/Uti_Nur_Padila-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
