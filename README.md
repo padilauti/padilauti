@@ -56,10 +56,19 @@
 
 ---
 
-## 🛠 Tools
+### 🔧 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,gitlab,docker,linux,notion,laragon" />
+  <!-- Development Tools -->
+  <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,gitlab,docker,linux,notion" />
+
+  <!-- Database Tools -->
+  <img src="https://img.shields.io/badge/Navicat-3498DB?style=for-the-badge&logo=navicat&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" />
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
+  <img src="https://img.shields.io/badge/TablePlus-FDCC39?style=for-the-badge&logo=tableplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" />
 </p>
+
 
 
 ---
