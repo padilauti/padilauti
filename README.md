@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/utinurpadila/padilauti/main/assets/wave-bg.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/utinurpadila/REPO_NAME/main/assets/wave-bg.png" width="100%" />
 </p>
+
 
 
 
