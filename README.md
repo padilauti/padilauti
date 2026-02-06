@@ -59,12 +59,17 @@
 ### 🔧 Tools
 <p>
   <img height="40" src="https://skillicons.dev/icons?i=vscode,postman,git,github,gitlab,docker,linux,notion" />
+</p>
+
+### 🗂️ Database Tools
+<p>
   <img height="40" src="https://cdn.simpleicons.org/laragon/0E83CD" />
   <img height="40" src="https://cdn.simpleicons.org/navicat/2496ED" />
   <img height="40" src="https://cdn.simpleicons.org/dbeaver/372923" />
   <img height="40" src="https://cdn.simpleicons.org/phpmyadmin/6C78AF" />
   <img height="40" src="https://cdn.simpleicons.org/tableplus/FEC138" />
 </p>
+
 
 
 
