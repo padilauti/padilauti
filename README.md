@@ -16,31 +16,24 @@
 
 ## 🌐 Connect With Me
 <p align="left">
-
-  <!-- Email -->
   <a href="mailto:padilauti@gmail.com">
     <img 
       src="https://img.shields.io/badge/padilauti@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       height="28"
     />
   </a>
-
-  <!-- Instagram -->
   <a href="https://instagram.com/utinurp_">
     <img 
       src="https://img.shields.io/badge/@utinurp_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      height="28"
+      height="20"
     />
   </a>
-
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/utinurp_/">
     <img 
       src="https://img.shields.io/badge/utinurp_-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      height="28"
+      height="20"
     />
   </a>
-
 </p>
 
 
