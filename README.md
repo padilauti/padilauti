@@ -44,8 +44,9 @@ Saya menikmati proses membangun sistem mulai dari arsitektur backend, integrasi 
 
 ## 🚀 Core Tech Stacks
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,next,vue,nodejs,php,laravel,flutter" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,python,fastapi,mysql" />
 </p>
+
 
 ---
 
