@@ -20,28 +20,29 @@
   <!-- Email -->
   <a href="mailto:padilauti@gmail.com">
     <img 
-      src="https://img.shields.io/badge/padilauti@gmail.com-ffffff?style=flat&logo=gmail&logoSize=14&labelColor=D14836&color=555"
-      height="25"
+      src="https://img.shields.io/badge/padilauti@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      height="28"
     />
   </a>
 
   <!-- Instagram -->
   <a href="https://instagram.com/utinurp_">
     <img 
-      src="https://img.shields.io/badge/@utinurp_-ffffff?style=flat&logo=instagram&logoSize=14&labelColor=E4405F&color=555"
-      height="25"
+      src="https://img.shields.io/badge/@utinurp_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      height="28"
     />
   </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/utinurp_/">
     <img 
-      src="https://img.shields.io/badge/utinurp_-ffffff?style=flat&logo=linkedin&logoSize=14&labelColor=0077B5&color=555"
-      height="25"
+      src="https://img.shields.io/badge/utinurp_-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      height="28"
     />
   </a>
 
 </p>
+
 
 
 
