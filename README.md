@@ -16,11 +16,11 @@
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="mailto:utinurpadila@gmail.com">
+  <a href="mailto:padilauti@gmail.com">
     <img src="https://img.shields.io/badge/utinurpadila@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://instagram.com/utinurpadila">
+  <a href="https://instagram.com/utinurp_">
     <img src="https://img.shields.io/badge/@utinurpadila-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
